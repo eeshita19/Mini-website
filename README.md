@@ -1,7 +1,7 @@
 # Welcome to ALL ABOUT COFFEE
 
 
-```A static website showing various techniques involved in making a tasty coffee
+A static website showing various techniques involved in making a tasty coffee
 
 Includes all kinds of HTML components like:
 1. Forms
