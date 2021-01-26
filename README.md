@@ -11,10 +11,6 @@ Includes all kinds of HTML components like:
 5. Blog 
 6. Album
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For preview see (https://eeshita19.github.io/Mini-website).
 
